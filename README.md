@@ -1,2 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/km95mjc5l6vixhio?svg=true)](https://ci.appveyor.com/project/madivira/ahj-yarn)
+![Build status](https://ci.appveyor.com/api/projects/status/8h9ii7nsb9x7mil5?svg=true)
  GitPages 
+ https://madivira.github.io/ahj-memory/
